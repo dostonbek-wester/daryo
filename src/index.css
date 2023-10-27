@@ -1,0 +1,16 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+  font-family:"Poppins", sans-serif;
+}
+
+.home-wrapper{
+  display: flex;
+  width: 100%;
+  max-width: 1450px;
+  margin: auto;
+}
+.left-bar{
+  width: 70%;
+  
+}

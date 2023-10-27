@@ -1,0 +1,11 @@
+.side-container{
+    width: 30%;
+    height: 100%;
+    min-height: 300px;
+    border: 1px solid rgb(200, 199, 199);
+    padding: 3px;
+}
+.side-container h3{
+    background-color:#008ccc;
+    
+}
